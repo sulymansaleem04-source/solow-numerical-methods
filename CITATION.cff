@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Numerical Solutions and Stability Analysis of the Solow Growth Model: A Comparative Study of Euler and Runge-Kutta Methods"
+authors:
+  - family-names: Sulyman 
+    given-names: Saleem
+version: 0.1.0
+license: MIT
+keywords:
+  - Solow growth model
+  - numerical methods
+  - Euler method
+  - Runge-Kutta
+  - stability analysis
+  - Nigeria
