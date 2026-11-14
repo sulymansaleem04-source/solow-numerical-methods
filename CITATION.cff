@@ -4,8 +4,9 @@ title: "Numerical Solutions and Stability Analysis of the Solow Growth Model: A 
 authors:
   - family-names: "Sulyman"
     given-names: "Saleem"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-14
+doi: 10.5281/zenodo.24213594
 license: MIT
 repository-code: "https://github.com/sulymansaleem04-source/solow-numerical-methods"
 abstract: "The Solow growth model reduces to one nonlinear differential equation for capital per effective worker. Under Cobb-Douglas production it has a closed-form solution, so the error of numerical methods can be measured exactly. This study compares the Euler, Heun and classical fourth-order Runge-Kutta methods on the model calibrated to Nigeria for 1990 to 2023, measuring accuracy and stability limits."
